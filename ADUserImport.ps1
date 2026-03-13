@@ -1,7 +1,7 @@
 <#
 Script: ADUserImport-v1.4.ps1
 Version: 1.4
-Author: Hilton Furter
+Author: 0xTOAST(T3rr1fying-TOAST)
 Purpose: Bulk create Active Directory users from a CSV file
 Description: Reads user information from a CSV file and creates accounts in the specified OU.
 Requirements: Active Directory PowerShell module and appropriate permissions to create users in the target OU.
