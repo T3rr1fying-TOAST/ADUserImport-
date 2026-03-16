@@ -15,7 +15,6 @@ This script automates the process of creating multiple users in Active Directory
 - Logging system with timestamps
 - Automatic log directory creation
 - Error handling using try/catch
-- Version tracking and changelog
 
 ---
 
